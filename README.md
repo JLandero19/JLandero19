@@ -1,6 +1,13 @@
 # ¡Hola! Soy JLandero19 👋
 
-![Mi Foto]([https://via.placeholder.com/150](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNpGGaBVM1qdUdY7HtwkiADMiOIiWp0FJRlA&s))
+<p align="center">
+  <img src="https://img.wattpad.com/8810dfc85c3cbba6c52b59862ac1fd06e4970ba3/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f69784a7a754d6a444d35576954513d3d2d313037373935313837392e313638336439303131626663323238303535363739333238313939322e6a7067?s=fit&w=720&h=720" alt="Mi Foto" width="300" />
+</p>
+
+
+
+
+
 
 Bienvenidos a mi perfil de GitHub. Soy un desarrollador con una sólida formación técnica y una gran pasión por la programación y la tecnología. En este espacio comparto mis proyectos personales, contribuciones a código abierto y mi continuo aprendizaje.
 
@@ -38,8 +45,6 @@ Aquí te dejo algunos de los proyectos en los que estoy trabajando o que he desa
 - **[OtakuVerse](https://github.com/JLandero19/OtakuVerse):** Una plataforma para fanáticos del anime que permite acceder a contenido, foros y recursos relacionados con el mundo Otaku.
 
 Puedes encontrar más proyectos en este repositorio. ¡Sigue explorando!
-
-## 💬 ¡Hablemos!
 
 ## 💬 ¡Hablemos!
 
