@@ -18,7 +18,7 @@ Bienvenidos a mi perfil de GitHub. Soy un desarrollador con formación técnica 
 
 Soy un entusiasta del desarrollo web y móvil, y manejo las siguientes tecnologías:
 
-- **Lenguajes de programación:**
+- **Tecnologías:**
   - HTML5, CSS3, JavaScript, PHP, Java, Kotlin
 - **Frameworks y librerías:**
   - Bootstrap, Laravel, jQuery, Ajax, Flutter
