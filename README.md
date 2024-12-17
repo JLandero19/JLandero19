@@ -1,6 +1,6 @@
 # ¡Hola! Soy JLandero19 👋
 
-Bienvenidos a mi perfil de GitHub. Soy un desarrollador con una sólida formación técnica y una gran pasión por la programación y la tecnología. En este espacio comparto mis proyectos personales, contribuciones a código abierto y mi continuo aprendizaje.
+Bienvenidos a mi perfil de GitHub. Soy un desarrollador con formación técnica y una gran pasión por la programación y la tecnología. En este espacio comparto mis proyectos personales, contribuciones a código abierto y mi continuo aprendizaje.
 
 ## 🚀 Sobre mí
 
