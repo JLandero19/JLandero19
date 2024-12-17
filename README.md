@@ -10,7 +10,6 @@ Bienvenidos a mi perfil de GitHub. Soy un desarrollador con formación técnica 
   - **Grado Medio en Gestión Administrativa**.
   - Actualmente, estudiando el **Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM)**.
   
-- 👨‍💻 Actualmente estoy trabajando en proyectos de desarrollo web, aplicaciones móviles y automatización de procesos.
 - 🌱 Siempre estoy aprendiendo y mejorando mis habilidades en tecnologías como **Flutter**, **Kotlin**, y **Java**.
 - 💬 Pregúntame sobre cualquier tema relacionado con **HTML5**, **CSS3**, **JavaScript**, **PHP**, **Laravel**, **jQuery**, **Ajax**, **MySQL**, y más.
 - 📫 Puedes contactarme por correo electrónico en: [javierlandero9@gmail.com].
