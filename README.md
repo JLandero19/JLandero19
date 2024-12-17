@@ -49,7 +49,4 @@ Estoy muy interesado en interactuar con la comunidad de desarrolladores, compart
 
 ---
 
-¡Espero poder charlar contigo pronto y explorar nuevas ideas juntos! 😄
-
-
 ¡Gracias por visitar mi perfil! 😄
